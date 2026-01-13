@@ -5,7 +5,7 @@
 This repository supports a research project/paper contributed by **Hyo Geun Yun** and **Ji soo Kang**.
 
 ## Affiliation / Tag
-**HYU-Seoul-Biomedical-Electronic-Engineering-mneLAB-2026**
+**HYU(Seoul), Biomedical Enginerring & Electronic Engineering, mneLAB, 2026**
 
 This repository provides a MATLAB Live Script pipeline that:
 1) exports ND2 → TIFF time series (optional),  
