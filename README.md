@@ -2,7 +2,7 @@
 **Pixel-wise FFT analysis of time-lapse microscopy (ND2/TIFF) to visualize EV/exosome temporal-frequency signatures**
 
 ## Authors / Contribution
-This repository supports a research project/paper contributed by **Hyo Geun Yun** and **Kang Jisoo**.
+This repository supports a research project/paper contributed by **Hyo Geun Yun** and **Ji soo Kang**.
 
 ## Affiliation / Tag
 **HYU-Seoul-Biomedical-Electronic-Engineering-mneLAB-2026**
