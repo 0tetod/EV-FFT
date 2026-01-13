@@ -1,6 +1,12 @@
 # EV-FFT (MATLAB)
 **Pixel-wise FFT analysis of time-lapse microscopy (ND2/TIFF) to visualize EV/exosome temporal-frequency signatures**
 
+## Authors / Contribution
+This repository supports a research project/paper contributed by **Hyo Geun Yun** and **Kang Jisoo**.
+
+## Affiliation / Tag
+**HYU-Seoul-Biomedical-Electronic-Engineering-mneLAB-2026**
+
 This repository provides a MATLAB Live Script pipeline that:
 1) exports ND2 → TIFF time series (optional),  
 2) builds **per-pixel one-sided FFT amplitude stacks**,  
